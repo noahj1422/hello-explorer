@@ -18,21 +18,19 @@ h1 {
     height: 2000px;
  }
 
- .grid_container {
-    display: grid;
-    grid-template-columns: 100px 100px 100px 100px;
-    grid-template-rows: 100px 100px 100px 100px;
+ .flex_container {
+    display: flex;
  }
 
  .moon {
     scale: inherit;
-    display: grid;
+    display: flex;
     justify-content: center;
     align-content: center;
 
  .earth {
     scale: inherit;
-    display: grid;
+    display: flex;
     justify-content: center;
     align-content: center;
  }
