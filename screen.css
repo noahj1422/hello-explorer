@@ -11,4 +11,7 @@ h1 {
 
  .container {
     display: flexbox;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
  }
