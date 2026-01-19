@@ -25,13 +25,13 @@ h1 {
  }
 
  .moon {
-    width: 15%;
+    scale: inherit;
     display: grid;
     justify-content: center;
     align-content: center;
 
  .earth {
-    width: 25%;
+    scale: inherit;
     display: grid;
     justify-content: center;
     align-content: center;
