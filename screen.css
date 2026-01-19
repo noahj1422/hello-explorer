@@ -10,7 +10,7 @@ h1 {
  }
 
  .container {
-    display: grid;
+    display: flex;
     position: absolute;
     left: 0;
     top: 0;
@@ -20,6 +20,7 @@ h1 {
 
  .flex_container {
     display: flex;
+    flex-wrap: wrap;
  }
 
  .moon {
