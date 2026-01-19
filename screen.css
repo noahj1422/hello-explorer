@@ -1,6 +1,6 @@
 /* Add screen styles below */
-a:active {
-    border: 25px solid rgb(80, 136, 255);
+a img:active {
+    border: 25px blue;
 }
 
 h1 {
