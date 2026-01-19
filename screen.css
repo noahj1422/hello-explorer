@@ -24,12 +24,15 @@ h1 {
  }
 
  .moon {
-    width: 150px;
-    height: 150px;
- }
+    width: 15%;
+    display: grid;
+    justify-content: center;
+    align-content: center;
 
  .earth {
-    width: 600px;
-    height: 600px;
+    width: 25%;
+    display: grid;
+    justify-content: center;
+    align-content: center;
  }
 
