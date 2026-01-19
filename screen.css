@@ -17,8 +17,9 @@ h1 {
     height: 50px;
  }
 
- .flex_container {
+ .grid_container {
     display: grid;
+    grid-template-columns: 100px 100px 600px 150px;
  }
 
  .moon {
