@@ -45,8 +45,8 @@ h1 {
 
  .word-container{
     display:flex;
-    flex-grow: 3 1;
-    gap: 100px 20px;
-    margin: 100px 100px 100px 100px;
+    flex-grow: 4 1;
+    gap: 100px 100px;
+    margin: 100px 100px 0px 100px;
  }
 
