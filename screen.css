@@ -4,6 +4,7 @@ h1 {
     color: white;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 60px;
+    letter-spacing: 3px;
     
 }
  p {
@@ -48,6 +49,6 @@ h1 {
     display:flex;
     flex-grow: 4 1;
     gap: 0px 100px;
-    margin: 100px 100px 0px 100px;
+    margin: 50px 100px 0px 100px;
  }
 
