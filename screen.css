@@ -26,20 +26,16 @@ h1 {
     display: flex;
     flex-wrap: wrap;
     gap: 0px 80px;
-    align-items: center;
-    justify-content: center;
  }
 
  .moon {
     scale: inherit;
     display: flex;
-    justify-content: center;
  }
 
  .earth {
     scale: inherit;
     display: flex;
-    justify-content: center;
  }
 
  .word-container{
