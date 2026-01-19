@@ -1,4 +1,4 @@
 /* Add screen styles below */
 a.active {
-    font-weight: bold;
+    outline: 5px solid rgb(50, 105, 255)
 }
