@@ -1,17 +1,14 @@
 /* Add screen styles below */
-a img:active {
-    border: 25px blue;
-}
 
 h1 {
     color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
  p {
     color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
  }
 
- .image-container {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    gap: 10px;
+ .container {
+    display: flexbox;
  }
