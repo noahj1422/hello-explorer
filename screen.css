@@ -1,11 +1,6 @@
 /* Add screen styles below */
 a:active {
-    border: 25 solid rgb(80, 136, 255);
-    display: block;
-}
-
-a:link {
-    display: block;
+    border: 25px solid rgb(80, 136, 255);
 }
 
 h1 {
@@ -13,4 +8,10 @@ h1 {
 }
  p {
     color: white;
+ }
+
+ .image-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
  }
