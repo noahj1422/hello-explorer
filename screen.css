@@ -1,7 +1,14 @@
 /* Add screen styles below */
-a.active {
-    outline: 5px solid rgb(50, 105, 255)
+a:active {
+    outline: 5px solid rgb(50, 105, 255);
+    display: block;
+    
 }
+
+a:link {
+    display: block;
+}
+
 h1 {
     color: white;
 }
