@@ -18,7 +18,7 @@ h1 {
  }
 
  .flex_container {
-    display: flex;
+    display: grid;
  }
 
  .moon {
