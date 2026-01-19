@@ -10,8 +10,24 @@ h1 {
  }
 
  .container {
-    display: flexbox;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 50px;
  }
+
+ .flex_container {
+    display: flex;
+ }
+
+ .moon {
+    width: 150px;
+    height: 150px;
+ }
+
+ .earth {
+    width: 600px;
+    height: 600px;
+ }
+
