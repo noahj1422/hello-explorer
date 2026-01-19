@@ -25,7 +25,7 @@ h1 {
  .flex_container {
     display: flex;
     flex-wrap: wrap;
-    gap: 0px 80px;
+    gap: 100px 80px;
     align-items: center;
     justify-content: center;
  }
