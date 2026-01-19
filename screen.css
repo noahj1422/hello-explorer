@@ -8,7 +8,6 @@ h1 {
  p {
     color: white;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    flex-shrink: 2;
  }
 
  .container {
@@ -30,11 +29,17 @@ h1 {
     display: flex;
     justify-content: center;
     align-content: center;
+ }
 
  .earth {
     scale: inherit;
     display: flex;
     justify-content: center;
     align-content: center;
+ }
+
+ .word-container{
+    display:flex;
+    flex-grow: 2 2;
  }
 
